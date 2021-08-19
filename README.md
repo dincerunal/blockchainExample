@@ -1,8 +1,14 @@
 # blockchainExample
 This repository contains blockchain based examples of many popular algorithms and  concept states.
 
+### Getting Started:
+- Install GoLang (Go Programming Language) and follow this steps   [`install`](https://golang.org/doc/install).
+- For help getting started with GoLang (Go Programming Language), view our online
+[`documentation`](https://golang.org/doc/).
+
 
 ### Deployment steps:
+
 - Clone this repo `git clone https://github.com/dincerunal/blockchainExample.git`
 - Navigate to project directory and save example.env file as .env `mv example.env .env`
 - Run main file `go run main.go`
